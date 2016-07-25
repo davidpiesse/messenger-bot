@@ -8,8 +8,7 @@
         "php": ">=5.5.9",
         "laravel/framework": "5.2.*",
         "rap2hpoutre/laravel-log-viewer": "^0.7.0",
-        "guzzlehttp/guzzle": "^6.2",
-        "davidpiesse/facebook_messenger_php": "dev-master"
+        "guzzlehttp/guzzle": "^6.2"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
@@ -25,6 +24,7 @@
         "psr-4": {
             "App\\": "app/",
             "mapdev\\cyoa\\": "app/cyoa",
+            "mapdev\\FacebookMessenger\\": "app/FacebookMessenger"
         }
     },
     "autoload-dev": {
