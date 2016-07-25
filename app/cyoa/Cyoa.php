@@ -1,7 +1,6 @@
 <?php
 namespace mapdev\cyoa;
 
-//manager class for cyoa
 use Illuminate\Http\Request;
 
 class Cyoa

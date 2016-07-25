@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: davidpiesse
- * Date: 05/07/2016
- * Time: 22:30
- */
-
 namespace mapdev\cyoa;
 
 
